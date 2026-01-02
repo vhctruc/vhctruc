@@ -89,4 +89,4 @@ decision-making, monitoring, and planning.
 ## Contact
 
 - GitHub: https://github.com/vhctruc
-- Email: your-email@example.com
+- Email: vhctruc94@gmail.com
