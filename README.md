@@ -36,16 +36,16 @@ decision-making, monitoring, and planning.
 - Python, SQL, Bash
 
 **Databases**
-- PostgreSQL, PostGIS
+- PostgreSQL, SQL Server
 - Analytical query optimization
 
 **Data & Analytics**
-- Apache Superset
-- Airflow (workflow orchestration)
+- Power Bi
+- Airflow, Dasgter
 - Pandas, Shapely, GDAL
 
 **GIS Tools**
-- ArcGIS, QGIS
+- ArcGIS
 - Spatial indexing and geometry processing
 
 **Infrastructure**
